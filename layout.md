@@ -1,4 +1,5 @@
 2.tex
+And_adding_a_jellyfish_here__.tex
 And_now_I_m_going__.tex
 figures/Chrysaora_Colorata2/Chrysaora_Colorata2.jpg
 5.tex
