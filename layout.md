@@ -1,5 +1,5 @@
 2.tex
-And_now_I_m_going__.tex
+Now_I_m_going_to__.tex
 figures/Chrysaora_Colorata2/Chrysaora_Colorata2.jpg
 5.tex
 Now_I_m_just_going__.tex
