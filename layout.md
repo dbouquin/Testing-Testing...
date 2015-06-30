@@ -2,5 +2,4 @@
 And_now_I_m_going__.tex
 figures/Chrysaora_Colorata2/Chrysaora_Colorata2.jpg
 5.tex
-Hey_jellyfish_Just_hanging_out__.tex
 Now_I_m_just_going__.tex
